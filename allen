@@ -1,0 +1,12 @@
+url: https://yi-luan.github.io/preston
+root: /preston/
+type: git
+repo: https://github.com/yi-luan/preston.git
+branch: master
+$ npm install -g hexo-cli
+$ cd
+$ hexo init preston
+$ cd yourname
+$ npm install
+$ npm install hexo-hey --save
+$ npm install hexo-deployer-git --save
